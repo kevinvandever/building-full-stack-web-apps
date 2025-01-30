@@ -98,6 +98,9 @@ layout: section
 1. Visit [bolt.new](https://bolt.new)
 2. Describe your desired application
 3. Get complete codebase instantly
+4. Live preview feature
+5. One-click deployment
+6. Access to GitHub project
 
 </div>
 <div>
